@@ -36,8 +36,6 @@ module.exports = function(eleventyConfigure) {
       includes: "_includes", // Partials and shortcodes (relative to input)
       layouts: "_layouts"    // Layout files (relative to input)
     },
-    // markdownTemplateEngine: "liquid", // Use Liquid for markdown files, default is already liquid
-    // htmlTemplateEngine: "liquid"      // Use Liquid for HTML files, default is already liquid
   };
 };
 
